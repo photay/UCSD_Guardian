@@ -1,5 +1,6 @@
 # UCSD_Guardian
 
-test
+Programs:
+Merging and Storing Files on GitHub. 
+Running python scripts on IPython / Jupyter (same thing). 
 
-test2
