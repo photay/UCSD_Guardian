@@ -1,5 +1,3 @@
 # UCSD_Guardian
 
-test
-
-test2
+##Software:  IPython/ Jupyter

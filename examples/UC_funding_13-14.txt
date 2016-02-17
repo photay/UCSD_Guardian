@@ -1,0 +1,10 @@
+MedicalCenters,8057241.0
+GrantsandContracts,5068233.0
+StudentTuitionandFees,3585859.0
+StateEducationalAppropriations,2637895.9999999995
+EducationalActivities,2378484.0
+Other,1434166.0
+AuxiliaryEnterprises,1316419.0
+DOELaboratories,1250820.0
+PrivateGifts,881648.0
+StateFinancingAppropriations,458.0
