@@ -26,5 +26,5 @@
 
 2. To be continued
 
-Training:
+#####**Training:**
 * To be continued
