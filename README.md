@@ -3,7 +3,7 @@
 ####**Welcome to the section of the Guardian, the UCSD official newspaper, that works on visualizing data. Our goal is to great visualizations that acurately represent data whilst also providing story.**
 
 #####**Tools We Use:**
-• Code is done primarily Python
+&nbsp • Code is done primarily Python
 • Use the Jupyter/ Ipython 3 Notebook to write code: http://ipython.org/
 • Code is combined on Github. Our url: https://github.com/dataViz-UCSDGuardian
 • The visualization libraries we use are Bokeh, Lightning and Matplotlib 
